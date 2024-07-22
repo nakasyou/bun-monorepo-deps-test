@@ -1,0 +1,6 @@
+{
+  "name": "@repo/b",
+  "dependencies": {
+    "hono": "3.12.12"
+  }
+}
